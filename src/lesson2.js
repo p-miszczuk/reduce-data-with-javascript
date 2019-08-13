@@ -6,7 +6,8 @@ import React from 'react';
 // import './lessons2/lesson4'
 // import './lessons2/lesson5'
 // import './lessons2/lesson6'
-import './lessons2/lesson7'
+// import './lessons2/lesson7'
+import './lessons2/lesson8'
 
 
 function App() {
