@@ -1,0 +1,10 @@
+.lessons {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.lesson {
+  border: thin solid green;
+  margin: 5px;
+  padding: 3px;
+}
